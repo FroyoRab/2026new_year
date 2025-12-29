@@ -4,9 +4,7 @@
 		padding: 0;
 	}
 	body {
-		background: rgb(129, 155, 190) url(../image/tu1.png);
-		background-size: cover;
-		background-position: center center;
+		background: #000;
 		height: 100%;
 	}
 	.container {
