@@ -6,11 +6,7 @@
 }
 @media screen and (min-width: 1025px) {
 	body {
-		background: rgb(129, 155, 190) url(../image/geyao1.jpg);
-		background-attachment: fixed;
-		background-size: cover;
-		-webkit-background-size: cover;
-		-o-background-size: cover;
+		background: #000;
 	}
 	.container {
 		position: absolute;
